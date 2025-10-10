@@ -1,0 +1,11 @@
+sku,name,length,width,height,weight,quantity
+PROD-001,Large Box,50,40,30,12,20
+PROD-002,Medium Box,30,30,25,8,30
+PROD-003,Small Box,20,15,15,3,50
+PROD-004,Flat Panel,80,60,10,15,15
+PROD-005,Heavy Base,45,45,20,22,10
+PROD-006,Tall Crate,40,40,60,18,12
+PROD-007,Wide Slab,90,50,12,16,10
+PROD-008,Thin Sheet,100,80,5,7,8
+PROD-009,Cube Pack,25,25,25,6,36
+PROD-010,Long Tube,120,20,20,10,10
